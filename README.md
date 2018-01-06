@@ -9,7 +9,7 @@ which is written by Prof. Sugihara and me. See this article for the technical de
 Below are the descriptions of the program files. 
 
 <ul>
-  <li> SMPL_disc_energy_opt.m </li>  
+  <li> SMPL_disc_energy_opt.m &cdots; </li>  
   <li> MAIN_approx_by_proposed_formulas.m </li>  
   <ul>
       <li> APPR_tB_baryc_one.m </li>  
