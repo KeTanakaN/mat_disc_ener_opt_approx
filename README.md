@@ -9,10 +9,10 @@ which is written by Prof. Sugihara and me. See this article for the technical de
 Below are the descriptions of the program files. 
 
 <ul>
-  <li> SMPL_disc_energy_opt.m &hellip; Generator of the sampling points for the proposed formula by discrete energy minimization. </li>  
+  <li> SMPL_disc_energy_opt.m &hellip; Generator of the sampling points for the proposed formula by the discrete energy minimization. </li>  
   <li> MAIN_approx_by_proposed_formulas.m &hellip; Program for computing the approximation of functions by the proposed formula. </li>  
   <ul>
-      <li> APPR_tB_baryc_one.m &hellip; Subroutine for </li>  
-      <li> APPR_tB_baryc_two.m &hellip; Subroutine for </li>  
+      <li> APPR_tB_baryc_one.m &hellip; Subroutine for the first barycentric form of the formula. </li>  
+      <li> APPR_tB_baryc_two.m &hellip; Subroutine for the second barycentric form of the formula.  </li>  
   </ul>
 </ul>
