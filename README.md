@@ -2,7 +2,7 @@
 
 These are Matlab R2016a programs for designing approximation formulas by discrete energy minimization and for computating the approximations of functions by the formulas. These programs are used to yield the results of the numerical experiments in the article
 
-"Design of accurate formulas for approximating functions in weighted Hardy spaces by discrete energy minimization" (arXiv:1801.xxxxx),
+"Design of accurate formulas for approximating functions in weighted Hardy spaces by discrete energy minimization" (<a href="https://arxiv.org/abs/1801.04363">arXiv:1801.04363</a>),
 
 which is written by Prof. Sugihara and me. See this article for the technical details of the method.
 
